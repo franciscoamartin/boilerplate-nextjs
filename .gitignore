@@ -19,6 +19,9 @@
 public/sw.js
 public/workbox-*.js
 
+# Storybook
+/storybook-static
+
 # misc
 .DS_Store
 *.pem
