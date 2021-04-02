@@ -12,7 +12,7 @@
     "test:watch": "yarn test --watch",
     "storybook": "start-storybook -s ./public -p 6006",
     "build-storybook": "build-storybook",
-    "build_cross_env": "cross-env NODE_ENV=production yarn build"
+    "build-production": "cross-env NODE_ENV=production yarn build"
   },
   "husky": {
     "hooks": {
